@@ -6,7 +6,7 @@
 
 The non-profit organization [Jalawelo](https://www.jalawelo.org) (_Jamaica Land we Love_) is currently working to develop online math tests designed to prepare individuals in Jamaica for the [City & Guilds](https://www.cityandguilds.com) (C & G) _Certificate in Mathematics_ exams, part of City & Guilds' [Mathematics and English Skills (3850)](https://www.cityandguilds.com/qualifications-and-apprenticeships/skills-for-work-and-life/english-mathematics-and-ict-skills/3850-mathematics-and-english-skills#tab=information) qualification program.
 
-These online tests are currently developed and maintained by hand. This requires a non-trivial investment in both time and resources, including: creating test questions according to the C & G math certification requirements, categorizing questions using C & G exam stage schedule and criteria, reviewing and verifying test questions, and becoming well-versed in how to use the learning management system where online math tests are posted.
+These online tests are currently developed and maintained by hand. This requires a non-trivial investment in both time and resources, including: creating test questions according to the C & G math certification requirements, categorizing questions using the C & G exam stage schedule and criteria, reviewing and verifying test questions, and becoming well-versed in how to use the learning management system where online math tests are posted.
 
 The `math-problem-generator` project aims to automate the creation of questions for these online math tests to save time and effort and reduce the risk of human error and the need for review and verification of test content.
 
