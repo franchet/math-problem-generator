@@ -1,6 +1,6 @@
 # math-problem-generator
 
-`math-problem-generator` is command-line tool that generates a set of randomized math problems, including right and wrong answers, in various categories (arithmetic, algebra, geometry, mathematical word problems, etc.), with the ability to output the generated problems in various formats (direct-to-screen, CSV file, etc.)
+`math-problem-generator` is command-line tool that generates a set of randomized math problems, including right and wrong answers, in various categories (arithmetic, algebra, geometry, mathematical word problems, etc.), with the ability to output the generated problems in various formats (direct-to-screen, CSV file, etc.).
 
 ## Background
 
