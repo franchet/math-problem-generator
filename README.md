@@ -8,7 +8,7 @@ The non-profit organization [Jalawelo](https://www.jalawelo.org) (_Jamaica Land 
 
 These online tests are currently developed and maintained by hand. This requires a non-trivial investment in both time and resources, including: creating test questions according to the C & G math certification requirements, categorizing questions using the C & G exam stage schedule and criteria, reviewing and verifying test questions, and becoming well-versed in how to use the learning management system where online math tests are posted.
 
-The `math-problem-generator` project aims to automate the creation of questions for these online math tests to save time and effort and reduce the risk of human error and the need for review and verification of test content.
+The `math-problem-generator` project aims to automate the creation of questions for these online math tests in order to save time and effort, eliminate human error, and reduce the need for review and verification of test content.
 
 ## Design
 
