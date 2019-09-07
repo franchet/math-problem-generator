@@ -16,7 +16,7 @@ The `math-problem-generator` project aims to automate the creation of questions 
 
 The program uses _problem generators_ to generate problems. A _problem generator_ is a piece of code that can generate a specific type of math problem, but generate a slightly different variation of the problem each time it's used. This allows the `math-problem-generator` program to generate a different (and randomized) set of questions each time it is used.
 
-For example, a "simple addition" problem generator might generate problems such as **What is 2 + 57?** and **What is 109 + 18?**, while a "algebraic equation" problem generator might produce **Find the value for X if 29 ÷ X × 4 × 21 + 34 = 440** as well as **Find the value for X if 72 - 98 - 12 + 73 + X = 40**.
+For example, a "simple addition" problem generator might generate problems such as **What is 2 + 57?** and **What is 109 + 18?**, while an "algebraic equation" problem generator might produce **Find the value for X if 29 ÷ X × 4 × 21 + 34 = 440** as well as **Find the value for X if 72 - 98 - 12 + 73 + X = 40**.
 
 A problem generator produces a randomized problem statement within a given class of problem (i.e. **What is 2 + 57?**), the correct solution to the problem, and 3 incorrect (but reasonable) solutions. Including the correct solution along with a set of incorrect solutions makes the output suitable for both fill-in-the-blank and multiple-choice tests.
 
