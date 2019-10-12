@@ -41,9 +41,3 @@ More formatters may be added in the future.
 `math-problem-generator` is a command-line tool, and provides flexibility for users in how it generates problems and in the output it produces.
 
 When it is run, it uses a set of _problem generators_, specified by the user, to generate a series of test questions (the number of questions to generate is also configurable), which it then outputs according to the options provided by the user.
-
-## Contributing
-
-This project is written in Python and Python 3.6 or newer is needed in order to work with the code. Code contributions will only be accepted via [pull requests](https://help.github.com/en/articles/about-pull-requests) and will be merged pending review and approval by the project maintainers (@mgspross and @newoga). Contributors may be asked to make changes to their code in order for it to be merged.
-
-A `CONTRIBUTING.md` document with more information on contributing to this project is currently being worked on (see issue [#2](https://github.com/jalawelo/math-problem-generator/issues/2)).
