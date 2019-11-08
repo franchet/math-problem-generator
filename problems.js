@@ -14,8 +14,7 @@ function simpleAdditionProblem() {
 
     return MathProblem(
         question = `What is ${left} + ${right}?`, rightAnswer = (left + right), wrongAnswer1 = left + right + 1,
-        wrongAnswer2 = left * right, wrongAnswer3 = left + right + 10;
-    );
+        wrongAnswer2 = left * right, wrongAnswer3 = left + right + 10);
 }
 
 function quotientWithSymbolProblem() {
@@ -26,8 +25,7 @@ function quotientWithSymbolProblem() {
 
 
     return MathProblem(
-        question = \
-        f `${left} \u00F7 \u2666 = ${result}"\ "\n\n"\ "The number that should replace the symbol \u2666 is`,
+        question = `${left} \u00F7 \u2666 = ${result}"\ "\n\n"\ "The number that should replace the symbol \u2666 is`,
         rightAnswer = hidden,
         wrongAnswer_1 = hidden - 10 + 5,
         wrongAnswer_2 = hidden + 10,
@@ -97,7 +95,7 @@ function generateEquation(maxTerms) {
     }
 }
 
-function prettify(expr) {:
+function prettify(expr) {
     // Replace * and / with their corresponding mathematical symbols"
     return expr.replace(" * ", " \u00d7 ").replace(" / ", " \u00f7 ");
 }
